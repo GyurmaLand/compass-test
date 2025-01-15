@@ -1,4 +1,4 @@
-import { AlertCircle, CheckCircle2, XCircle } from "lucide-react";
+import { CheckCircle2 } from "lucide-react";
 
 export default function CompassTest() {
   return (
